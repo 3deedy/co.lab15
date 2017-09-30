@@ -1,0 +1,41 @@
+body {
+	background-image: url(https://thumbs.dreamstime.com/z/jerogl%C3%ADficos-egipcios-4129199.jpg);
+}
+
+
+/*
+
+#chirp-btn {
+text-transform: bold;
+}
+h1 {
+	color: #fff;
+	height: 2em;
+	line-height: 2em;
+	text-align: center;
+}
+
+.nav-link {
+	text-align: center;
+}
+
+#chirp-list {
+background-color: white;
+margin: 0 auto;
+text-align: center;
+}
+
+
+
+.chirp {
+	border-bottom: 2px dotted maroon; 
+	
+}
+
+#chirp-field {
+	margin: 1em;
+	margin-right: 4em;
+	/*width: 1368px;*/
+	/*max-width: 1368px;
+	text-align: center;
+}*/
