@@ -35,8 +35,7 @@ function postChirp() {
     });
 }
 
-function getChirps() {
-
+function getChirps(){
     $.ajax({
         method: 'GET',
         url: '/api/chirps'
